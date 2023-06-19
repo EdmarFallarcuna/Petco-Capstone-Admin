@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\petco admin\\admin_petco\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\petco admin\\admin_petco\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "175,911",
+                        "endLines": "8,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "562,1157"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,442",
+                        "endLines": "7,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "437,685"
+                    }
+                }
+            ]
+        }
+    ]
+}
